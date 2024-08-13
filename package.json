@@ -1,0 +1,44 @@
+{
+  "name": "react-native-auto-type",
+  "version": "1.1.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/husseinpenart/react-native-auto-type.git"
+  },
+  "bugs": {
+    "url": "https://github.com/husseinpenart/horror-ui/issues"
+  },
+  "homepage": "https://husseinpenart.github.io/horror-ui-doc/",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.6"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.77.0",
+    "typescript": "5.0.4",
+    "@react-native/typescript-config": "0.73.1",
+    "@types/react": "^18.2.6",
+    "@types/react-test-renderer": "^18.0.0",
+    "jest": "^29.6.3"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "react-native-auto-type",
+    "react native auto type",
+    "react-native auto writer",
+    "react-native auto complete",
+    "react-native-app",
+    "android",
+    "ios",
+    "Hussein Asadi"
+  ],
+  "author": "Hussein Asadi",
+  "license": "ISC",
+  "description": "hi every one this is a library for auto typewriting text titles array of text and lots of stuff hope you enjoy it"
+}
